@@ -1,2 +1,6 @@
 # go-MyTest-introduction
  go语言入门
+相关csdn文章:
+1、基础篇：https://blog.csdn.net/asd1358355022/article/details/127905011?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167161720516782427410419%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=167161720516782427410419&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-1-127905011-null-null.blog_rank_default&utm_term=go&spm=1018.2226.3001.4450
+2、基础篇2：https://blog.csdn.net/asd1358355022/article/details/128039005?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167161720516782427410419%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=167161720516782427410419&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-3-128039005-null-null.blog_rank_default&utm_term=go&spm=1018.2226.3001.4450
+3、进阶篇:https://blog.csdn.net/asd1358355022/article/details/128137078?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167161720516782427410419%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=167161720516782427410419&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_ecpm_v1~rank_v31_ecpm-2-128137078-null-null.blog_rank_default&utm_term=go&spm=1018.2226.3001.4450
